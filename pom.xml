@@ -5,7 +5,7 @@
   <groupId>org.msgpack</groupId>
   <artifactId>msgpack-rpc</artifactId>
   <packaging>jar</packaging>
-  <version>0.6.3-SNAPSHOT</version>
+  <version>0.6.4-SNAPSHOT</version>
 
   <name>msgpack-rpc</name>
   <url>http://msgpack.org/</url>
@@ -125,7 +125,7 @@
     <dependency>
       <groupId>org.msgpack</groupId>
       <artifactId>msgpack</artifactId>
-      <version>0.6.2-SNAPSHOT</version>
+      <version>0.6.4-SNAPSHOT</version>
       <scope>compile</scope>
     </dependency>
     <dependency>
